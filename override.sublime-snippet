@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+${1:myFunction}:function() {
+    this.inherited(arguments);
+    $0
+},
+]]></content>
+    <tabTrigger>over</tabTrigger>
+    <scope>source.js</scope>
+    <description>generic enyo override</description>
+</snippet>

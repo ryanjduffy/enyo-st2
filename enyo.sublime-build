@@ -1,0 +1,12 @@
+{
+    "working_dir": "${folder}",
+    "windows":{
+        "cmd": ["tools\\deploy.bat"]
+    },
+    "linux":{
+        "cmd": ["tools/deploy.sh"]
+    },
+    "osx":{
+        "cmd": ["tools/deploy.sh"]
+    }
+}

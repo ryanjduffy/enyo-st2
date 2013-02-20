@@ -1,0 +1,24 @@
+<snippet>
+    <content><![CDATA[
+enyo.kind({
+    name: "$1",
+    kind: "${2:Control}",
+    published: {
+        $3
+    },
+    events: {
+        $4
+    },
+    components: [
+        $5
+    ],
+    create:function() {
+        this.inherited(arguments);
+        $0
+    }
+});
+]]></content>
+    <tabTrigger>kind</tabTrigger>
+    <scope>source.js</scope>
+    <description>enyo.kind template</description>
+</snippet>

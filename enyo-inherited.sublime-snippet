@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+this.inherited(arguments);
+
+]]></content>
+    <tabTrigger>inh</tabTrigger>
+    <scope>source.js</scope>
+    <description>this.inherited(arguments);</description>
+</snippet>

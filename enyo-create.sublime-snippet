@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+create:function() {
+    this.inherited(arguments);
+    $0
+},
+]]></content>
+    <tabTrigger>create</tabTrigger>
+    <scope>source.js</scope>
+    <description>create override for enyo kinds</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[enyo.bind(${1:this}, "$2")]]></content>
+    <tabTrigger>bind</tabTrigger>
+    <scope>source.js</scope>
+    <description>enyo.bind()</description>
+</snippet>
