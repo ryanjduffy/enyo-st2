@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+${1:prop}Changed:function() {
+    $0
+},
+]]></content>
+    <tabTrigger>changed</tabTrigger>
+    <scope>source.js</scope>
+    <description>this.$.</description>
+</snippet>
