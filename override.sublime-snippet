@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-${1:myFunction}:function() {
+${1:myFunction}:function($2) {
     this.inherited(arguments);
     $0
 },

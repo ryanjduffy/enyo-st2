@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+${1:eventHandler}: function(${2:inSource}, ${3:inEvent}) {
+    $0
+},
+]]></content>
+    <tabTrigger>handler</tabTrigger>
+    <scope>source.js</scope>
+    <description>enyo event handler</description>
+</snippet>
