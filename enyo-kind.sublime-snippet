@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
 enyo.kind({
-    name: "$1",
+    name: "${1:${TM_FILENAME/(.*).js/$1/}}",
     kind: "${2:Control}",
     published: {
         $3
