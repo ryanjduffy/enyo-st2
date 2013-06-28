@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+enyo.forEach(this.\$.$1${2:.${3:children }${4:controls }${5:components }}, function(item){
+  $0
+}${6:.bind(this)}${7: ,${8:this}});
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>efe</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+  <description> Enyo forEach </description>
+</snippet>
