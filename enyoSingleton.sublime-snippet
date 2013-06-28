@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+enyo.singleton({
+  name:'$1',
+  published:{ $2 },
+  $3:function($4){
+    $0
+  },
+});
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>esing</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+  <description>Enyo singleton</description>
+</snippet>

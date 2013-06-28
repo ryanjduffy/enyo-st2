@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+this.\$.$1.createComponent({kind:"$2"});
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>ecc</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+  <description> Enyo createComponent </description>
+</snippet>
